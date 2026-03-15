@@ -3,7 +3,7 @@
 
 Cloud Data Engineering | AWS | SQL | Python
 
-I have 15+ years of experience as an Oracle database developer and am currently transitioning into cloud data engineering.
+I have 15+ years of experience as an Oracle database and Informatica ETL developer and am currently transitioning into cloud data engineering.
 
 ## Skills
 
